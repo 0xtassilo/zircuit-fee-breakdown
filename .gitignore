@@ -1,3 +1,10 @@
+# Zircuit-specific files (if any)
+zircuit-config.json
+
+# Other potential patterns specific to your project
+custom-directory/
+*.custom-extension
+
 # Logs
 logs
 *.log
